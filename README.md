@@ -42,16 +42,16 @@ The dataset used for training and evaluation is "Brain MRI Dataset" available on
 
 ## Explainable AI
 - **Correctly Classified:**
-![Explainable AI](Images/CorrectlyClassified/CC1.jpeg)
-![Explainable AI](Images/CorrectlyClassified/CC2.jpeg)
-![Explainable AI](Images/CorrectlyClassified/CC3.jpeg)
-![Explainable AI](Images/CorrectlyClassified/CC4.jpeg)
+![Explainable AI](Images/CorrectlyClassified/CC1.png)
+![Explainable AI](Images/CorrectlyClassified/CC2.png)
+![Explainable AI](Images/CorrectlyClassified/CC3.png)
+![Explainable AI](Images/CorrectlyClassified/CC4.png)
 
 - **Misclassified:**
-![Explainable AI](Images/Misclassified/MC1.jpeg)
-![Explainable AI](Images/Misclassified/MC2.jpeg)
-![Explainable AI](Images/Misclassified/MC3.jpeg)
-![Explainable AI](Images/Misclassified/MC4.jpeg)
+![Explainable AI](Images/Misclassified/MC1.png)
+![Explainable AI](Images/Misclassified/MC2.png)
+![Explainable AI](Images/Misclassified/MC3.png)
+![Explainable AI](Images/Misclassified/MC4.png)
 
 ## Contact Information
 
