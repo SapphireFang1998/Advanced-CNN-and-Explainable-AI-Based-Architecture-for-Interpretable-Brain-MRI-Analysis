@@ -17,7 +17,7 @@ Deep learning practitioners have been using Convolutional Neural Networks (CNNs)
 The dataset used for training and evaluation is "Brain MRI Dataset" available on Figshare. You can find the dataset <a href="https://figshare.com/articles/dataset/Brain_MRI_Dataset/14778750/2">here</a>.
 
 ## Proposed Methodology
-![Proposed Methodology](Images/ProposedMethodology.pdf)
+![Proposed Methodology](Images/ProposedMethodology/ProposedMethodology.png)
 
 ## Experimental Setups
     
