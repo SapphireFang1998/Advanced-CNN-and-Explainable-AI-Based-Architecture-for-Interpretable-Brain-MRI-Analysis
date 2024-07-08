@@ -11,6 +11,7 @@ Deep learning practitioners have been using Convolutional Neural Networks (CNNs)
 - [Explainable AI](#explainable-ai)
 - [Contact Information](#contact-information)
 - [Citation](#citation)
+- [License](#license)
 
 ## Dataset
 
@@ -73,5 +74,5 @@ For any questions or further inquiries, please feel free to reach out:
 
 If you find the research work helpful, please consider citing our paper:
 
-
-
+## License
+[MIT License](LICENSE)
