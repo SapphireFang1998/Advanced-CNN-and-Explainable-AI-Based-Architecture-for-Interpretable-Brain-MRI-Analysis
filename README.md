@@ -75,5 +75,15 @@ For any questions or further inquiries, please feel free to reach out:
 
 If you find the research work helpful, please consider citing our paper:
 
+```bibtex
+@inproceedings{shuvo2024advanced,
+  title={Advanced CNN and Explainable AI Based Architecture for Interpretable Brain MRI Analysis},
+  author={Shuvo, Shuvashis Sarker and Refat, Shamim Rahim and Preotee, Faika Fairuj and Muhammad, Tashreef},
+  booktitle={Proceedings of the 3rd International Conference on Computing Advancements},
+  pages={319--326},
+  year={2024}
+}
+```
+
 ## License
 [MIT License](LICENSE)
